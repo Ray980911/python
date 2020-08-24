@@ -1,0 +1,14 @@
+print('X'+'D'*3)
+print(9/2)
+print(9//2)
+print(9%2)
+print(9**2)
+a=3
+b=1
+print('a+b')
+a=10
+a+1
+print(a)
+x=input(2)
+x=int(x)
+print(x/2)
